@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#Written and uploaded on 10/26/2017
+#created in an afternoon by Leanne Vermillion
+#project solution to a project posted on projecteuler.net
 import random
 import math
 
