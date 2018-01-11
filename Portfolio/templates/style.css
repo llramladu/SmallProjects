@@ -1,0 +1,53 @@
+/*CSS Comment*/
+
+h1 {
+  color: FireBrick;
+	text-align: left;
+
+}
+
+h2 {
+	color: FireBrick;
+	text-align: left;
+	font-size: 22px;
+
+}
+h4 {
+	color: FireBrick;
+	text-align: left;
+
+}
+h3 {
+  color: FireBrick;
+  font-size: 28px;
+  text-align: left;
+
+}
+body {
+    background-color: Gainsboro;
+}
+
+p {
+    font-size: 12px;
+}
+.footer {
+    padding-top: 19px;
+    color: #777;
+    border-top: 1px solid FireBrick;
+}
+.header {
+  	padding-top: 19px;
+  	padding-bottom: 20px;
+  	border-bottom: 1px solid FireBrick;
+}
+.header h1 {
+  	margin-top: 0;
+  	margin-bottom: 0;
+  	line-height: 40px;
+}
+.marketing {
+  	margin: 40px 0;
+}
+.marketing p + h2 {
+  	margin-top: 18px;
+}

@@ -1,0 +1,12 @@
+config.py
+
+__pycache__
+*.pyc
+*.pyo
+
+bin/
+build/
+include/
+lib/
+
+.DS_Store
